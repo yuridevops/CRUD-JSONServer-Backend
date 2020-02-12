@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Marcos Yuri Rosa Junior",
+      "email": "marcosyuri.fsz@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Elis Regina Weiss ",
+      "email": "elis.eng.eletrica@gmail.com",
+      "id": 2
+    }
+  ]
+}
